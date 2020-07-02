@@ -1,0 +1,3 @@
+Calendar permissions is required for this app to add, view or remove calendar events created by this app. 
+Your calendar data are not extracted by this app from your device and sent to any party. 
+No third party analytics or advertising services which could violate your privacy are included in this app.
